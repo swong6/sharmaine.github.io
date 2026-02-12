@@ -20,12 +20,12 @@
 - Collaborated with consultant team to refine tax preparation processes, improving accuracy and turnaround times.
 
 ## Projects
-### Customer Analytics & RFM Segmentation Project _(Dec 2025, UW Academic Project)_
+**Customer Analytics & RFM Segmentation Project** _(Dec 2025, UW Academic Project)_
 - Analyzed 12-years of transaction data (14.5k orders) using Python to implement RFM segmentation with quantile scoring, handling skewed distributions and duplicate bins.
 - Identified 6 high-value, at-risk customer segments using matplotlib and seaborn visualizations to reduce mailing costs and prioritize high-impact households.
 [Project Link](https://www.mdpi.com/1424-8220/22/8/3048)
 
-### Seattle Airbnb Reservation Analysis _(Jul 2025, Personal Project)_
+**Seattle Airbnb Reservation Analysis** _(Jul 2025, Personal Project)_
 - Employed SQL to clean 48K records, resolve missing prices, and built Tableau dashboards to recommend host pricing and utilization decisions.
 [Tableau](https://public.tableau.com/app/profile/s.w7614/viz/AirbnbSeattleAnalysis_17231824490640/Dashboard1) 
 
@@ -34,7 +34,6 @@
 - Intermediate SQL (DataCamp)
 
 ## Activities & Leadership
-
 - **DubsTech Datathon** _(Feb 2026)_: Cleaned 23K+ healthcare survey records in Python; built Tableau dashboard to analyze disparities across 54 access indicators, identifying highest-barrier groups. Implemented K-Means clustering to segment subgroups, ranking clusters by composite barrier scores.
 - **University of Washington Foster School of Business (Jul 2025 – Present)**: Student Ambassador and Mentorship Team Lead - supporting peers and fostering an inclusive learning environment.
 
