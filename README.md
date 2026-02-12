@@ -7,18 +7,15 @@
 - B.S., International Business | Loughborough University (_Jul 2020_)
 
 ## Work Experience
-**Customer Analytics Lead @ Aritzia** _(Aug 2021 – Apr 2025, Vancouver, Canada)_  
-> Top 5 Canadian fashion retailer | FY2025 Revenue: US$2.74B
+**Customer Analytics Lead @ Aritzia** _(Aug 2021 – Apr 2025)_  
 - Employed SQL to fulfill ad-hoc analytics requests; analyzed employee survey and operational data to identify 4 engagement improvement areas in Tableau/Power BI, improving satisfaction rates by 18.2%.
 - Automated recurring Excel reports and dashboards, reducing reporting turnaround time by 50%.
 
-**Project Manager Intern @ Wordbank** _(Aug 2018 – Aug 2019, London, United Kingdom)_  
-> Global marketing-localization agency | Clients: Netflix, Disney, Adidas
+**Project Manager Intern @ Wordbank** _(Aug 2018 – Aug 2019)_  
 - Managed a portfolio of 30+ marketing projects for multinational brands; identified process improvements while partnering with account managers.
 - Streamlined Timberland's European translation workflows, reducing turnaround time by 50%.
 
-**Global Employer Services Tax Analyst Intern @ Deloitte** _(Jul 2017 – Aug 2017, Hong Kong)_  
-> Global accounting & advisory firm | FY2025 Revenue: US$70.5B
+**Global Employer Services Tax Analyst Intern @ Deloitte** _(Jul 2017 – Aug 2017)_  
 - Prepared and analyzed 10-15 tax returns weekly for multinational clients using Excel, ensuring legal compliance.
 - Collaborated with consultant team to refine tax preparation processes, improving accuracy and turnaround times.
 
@@ -30,7 +27,7 @@
 
 ### Seattle Airbnb Reservation Analysis _(Jul 2025, Personal Project)_
 - Employed SQL to clean 48K records, resolve missing prices, and built Tableau dashboards to recommend host pricing and utilization decisions.
-![EEG Band Discovery](/assets/img/Airbnb.png)
+![Airbnb](/assets/img/Airbnb.png)
 [Tableau](https://public.tableau.com/app/profile/s.w7614/viz/AirbnbSeattleAnalysis_17231824490640/Dashboard1) 
 
 #### Certifications
